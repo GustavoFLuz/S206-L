@@ -1,0 +1,6 @@
+1- Desenvolvi uma única suite de teste, para testar a api de PublicApis
+2- São testes automatizados pelo karate
+3- Na categoria de testes de integração
+4- São testes funcionais, verificam se a API está ativa e respondendo corretamente
+5- Nenhum dos testes é End-To-End
+6- Deve-se atualizar os testes conforme as alterações na API
